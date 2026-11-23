@@ -1,0 +1,5 @@
+# normalize line endings so Windows checkouts don't churn
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.png binary

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.buildenv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 本地导出结果（含 PDF，不要提交）
+demo_export/
+*.exe
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
